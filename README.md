@@ -8,7 +8,7 @@ Being only a student in the 2nd year of engineering school, I am therefore a beg
 
   Okay… So, what’s your project ?
 
-Well, it’s no more or no less than a C-code I developed to communicate with LiDAR. Available on my github: (lien vers mon repo github)
+Well, it’s no more or no less than a C-code I developed to communicate with LiDAR.
 Inside, you will find the various commands to communicate with the LiDAR and documents useful for understanding the code. I specify that all lines of code are commented to allow you an easy and quick understanding of the operation of LiDAR.
 
   I see… But do you know that SLAMTEC has github with C++ code that does what you did…. So what’s the point of your project ?
@@ -26,8 +26,6 @@ https://docs.luos.io:
 
 Very simple, you just need to install the IDE platformIO with the extension VS Code, free of course. You also need Logic2, it’s a free software which allows you to see your data signal during communication. For hardware, you will need a STM32fo discovery development board:
 https://www.mouser.fr/ProductDetail/STMicroelectronics/STM32F0DISCOVERY?qs=y%252BFWVGuMvwZK8miFvhZefg==&mgh=1&vip=1
-Indeed, I developed my code for STM32f0 microcontroller because it can host Luos. And the rest things are explained in the LiDAR_Code_C_Handling.pdf of my project.
-Now let’s develop it !
+Indeed, I developed my code for STM32f0 microcontroller because it can host Luos. The rest of the things you need are explained in the LiDAR_Code_C_Handling.pdf of my project.
 So, feel free if you have any questions, I spent a lot of time with this sensor and I know the difficulties encountered to understand it.
-Best Regards,
-Nouri Huseynov
+Now let’s develop it !

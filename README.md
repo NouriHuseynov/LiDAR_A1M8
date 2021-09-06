@@ -1,6 +1,6 @@
 # LiDAR_A1M8
 Hi and welcome to my LiDAR project,
-Let's talk about the sensor on which I worked and which may interest you: the LiDAR. It is a sensor that combines angles and distances detections to return a 2D map of the environment. These kinds of sensors are widely used in autonomous cars, vacuum robots, in VR phones too…. In short, a whole bunch of projects, including yours, I’m sure. And now you have to say to yourself:
+Let's talk about the sensor on which I worked and which may interest you: the LiDAR. It is a sensor that combines angles and distances detections to return a 2D map of the environment. These kinds of sensors are widely used in autonomous cars, vacuum robots, in VR phones too…. In short, a whole bunch of projects, including yours, I’m sure. And now you have to wonder :
 
   But you worked on which model of LiDAR because there’s a whole bunch of them and it’s not easy to find your way around?
   
